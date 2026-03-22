@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic photograph of a fashion workshop. A tailor is carefully crafting an extremely bizarre, overly detailed suit that perfectly matches the strange, distorted shape of a mannequin with unnatural proportions (bent limbs, uneven torso). The suit fits this mannequin flawlessly but looks absurd and unusable for any normal human. In the background, normal mannequins stand ignored with no proper clothing. Cinematic lighting, high detail, realistic textures, shallow depth of field. No text, no labels, no symbols.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored perfectly to a distorted mannequin represents a model that fits training data exactly but fails on normal real-world cases."
+}
