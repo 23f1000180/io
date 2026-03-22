@@ -1,6 +1,8 @@
 {
-  "prompt": "A hyper-realistic photograph of a fashion workshop. A tailor is carefully crafting an extremely bizarre, overly detailed suit that perfectly matches the strange, distorted shape of a mannequin with unnatural proportions (bent limbs, uneven torso). The suit fits this mannequin flawlessly but looks absurd and unusable for any normal human. In the background, normal mannequins stand ignored with no proper clothing. Cinematic lighting, high detail, realistic textures, shallow depth of field. No text, no labels, no symbols.",
+  "prompt": "A traditional Japanese ukiyo-e woodblock print depicting a lone traveler walking down a winding mountain path from high cliffs toward a calm valley below. The composition uses strong diagonal movement from top to bottom, guiding the eye downward. Flat areas of muted color, indigo and earthy tones, bold black outlines, minimal shading, visible woodblock texture. Stylized waves of clouds and layered mountains in the background. The path clearly descends toward a lowest point in the valley. No modern elements, no text, no labels.",
   "model": "DALL·E 3",
-  "concept": "overfitting",
-  "metaphor": "A suit tailored perfectly to a distorted mannequin represents a model that fits training data exactly but fails on normal real-world cases."
+  "concept": "gradient descent",
+  "tradition_name": "Japanese Ukiyo-e woodblock prints",
+  "tradition_period": "Edo period (1603–1868)",
+  "tradition_approach": "Used flat color fields, bold outlines, diagonal composition, and layered landscapes to mirror downhill movement toward a minimum."
 }
